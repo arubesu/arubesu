@@ -34,14 +34,6 @@ I'm a software developer and I love writing code & learning new things!
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)&nbsp;
 
-### :octocat: &nbsp;Github Stats
-
-<div>
-  <a href="https://github.com/arubesu">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=arubesu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arubesu&&layout=compact&hide=shell&theme=dracula"/>
-</div>
-  
  ![Snake animation](https://github.com/arubesu/arubesu/blob/output/github-contribution-grid-snake.svg)
   
 ### 🤝🏻 &nbsp;Connect with Me
